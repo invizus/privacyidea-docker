@@ -19,3 +19,11 @@ only one privacyidea app.
 
 TODO:
 - volumes.
+
+
+## helm chart
+in development.
+
+install:
+
+`helm install --create-namespace --namespace pi pi-app ./chart/privacyidea/`
